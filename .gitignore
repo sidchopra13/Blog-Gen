@@ -1,6 +1,6 @@
 .DS_store
 **/node_modules
 *.txt
-.env
+/*.env
 .sass-cache
 npm-debug.log
