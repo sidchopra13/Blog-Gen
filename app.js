@@ -4,6 +4,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const _ = require("lodash");
+require('dotenv').config({path:__dirname+"/.env"})
 const mongoose = require('mongoose');
 
 const homeStartingContent = "Welcome to Blog Gen! Blog Gen is a dynamic blogging web application where you can publish your blogs with just a click! This website is made with Node.js and EJS, which is a template engine.";
@@ -16,7 +17,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://localhost:27017/blogDB", {
+mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true
   }
