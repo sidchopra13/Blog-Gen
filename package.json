@@ -8,6 +8,9 @@
   },
   "author": "Siddharth Chopra",
   "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^16.0.1",
