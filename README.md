@@ -17,7 +17,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href=[Description](#description)>Description 🖋️</a>
+      <a href="description">Description 🖋️</a>
       <ul>
         <li><a href="#-technologies">Technologies 🛠️</a></li>
       </ul>
