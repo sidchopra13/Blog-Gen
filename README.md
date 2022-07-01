@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/rzmk/simple-blog](https://github.com/sidchopra13/Blog-Gen)">
+  <a href="[https://github.com/sidchopra13/Blog-Gen](https://github.com/sidchopra13/Blog-Gen)">
     <img src="public/img/logo.jpg" alt="Blog-Logo" width="125" height="125">
   </a>
 
