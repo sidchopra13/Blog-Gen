@@ -47,8 +47,8 @@ This web app uses Node.js for backend. I have used Express.js for serving static
 - ### [Express](http://expressjs.com/pt-br/)
   A Node.js web application framework that provides a robust set of features for web and mobile applications.
 
-- ### [MySQL](https://www.mysql.com/)
-  The most popular relational database.
+- ### [MongoDB](https://www.mongodb.com/)
+  The most popular NoSQL database.
   
 - ### [EJS](https://ejs.co/)
   A templating language that lets you generate HTML markup with plain JavaScript.
