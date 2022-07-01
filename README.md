@@ -24,7 +24,7 @@
     </li>
     <li><a href="#how-to-deploy">How to Deploy? 🚀</a></li>
     <li><a href="#inspiration">Inspiration💡</a></li>
-    <li><a href="#what's-next-for-Blog-Gen">What's next for Blog-Gen 🙌</a></li>
+    <li><a href="#what's-next-for-blog-gen">What's next for Blog-Gen 🙌</a></li>
     <li><a href="#contact">Contact 😎</a></li>
   </ol>
 </details>
@@ -85,7 +85,7 @@ This project was initially started as a course-along project which I made to lea
 
 <!-- What's next for Blog-Gen -->
 ## What's next for Blog-Gen 🙌
-Improving UI is the next step for this application. I would also like to hear any reviews, feedback or suggestions from you!
+Improving UI is the next step for this application. You can expect register and login functionality in next version of this web application. I would also like to hear any reviews, feedback or suggestions from you!
 
 <!-- CONTACT -->
 ## Contact 😎
