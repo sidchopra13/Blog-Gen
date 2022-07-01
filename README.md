@@ -17,20 +17,20 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="description">Description 🖋️</a>
+      <a href="#description">Description 🖋️</a>
       <ul>
-        <li><a href="#-technologies">Technologies 🛠️</a></li>
+        <li><a href="#technologies">Technologies 🛠️</a></li>
       </ul>
     </li>
-    <li><a href="#-how-to-deploy?">How to Deploy? 🚀</a></li>
+    <li><a href="#how-to-deploy">How to Deploy? 🚀</a></li>
     <li><a href="#inspiration">Inspiration💡</a></li>
-    <li><a href="#what's-next-for-blog-gen">What's next for Blog-Gen 🙌</a></li>
+    <li><a href="#whats-next-for-blog-gen">What's next for Blog-Gen 🙌</a></li>
     <li><a href="#contact">Contact 😎</a></li>
   </ol>
 </details>
 
 <!-- Description -->
-## Description 🖋️
+## Description
 
 Hey! Welcome to Blog Gen! This is just a blog web application I built from learning how to develop full-stack applications. 
 I was able to learn how the front-end and back-end interact along with a database, and it's turned out very well!
@@ -39,7 +39,7 @@ This web app uses Node.js for backend. I have used Express.js for serving static
 
 <!-- Technologies -->
 
-## Technologies 🛠️
+## Technologies
 
 - ### [Node.js](https://nodejs.org/en/)
   A  JavaScript runtime built on v8 engine.
@@ -57,7 +57,7 @@ This web app uses Node.js for backend. I have used Express.js for serving static
   The world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a template starter page.
 
 <!-- How-to-Deploy? -->
-## How to Deploy? 🚀
+## How to Deploy? 
 
 You can try out Blog-Gen by going here: **<a href = "(https://stormy-sands-79797.herokuapp.com/)" target = "_blank">(https://stormy-sands-79797.herokuapp.com/)</a>**<br>
 If your want to try this app on your local machine, follow these steps: 
@@ -80,15 +80,15 @@ If your want to try this app on your local machine, follow these steps:
 5. Now you can go to the Compose button to publish your own blog. Your blog will be visible on the homepage, where you will also find a link to the dynamically created page and URL for your blog.
 
 <!-- Inspiration -->
-## Inspiration💡
+## Inspiration
 This project was initially started as a course-along project which I made to learn Node.js and Express.js
 
 <!-- What's next for Blog-Gen -->
-## What's next for Blog-Gen 🙌
+## What's next for Blog-Gen 
 Improving UI is the next step for this application. You can expect register and login functionality in next version of this web application. I would also like to hear any reviews, feedback or suggestions from you!
 
 <!-- CONTACT -->
-## Contact 😎
+## Contact 
 
 Siddharth Chopra - [@sidchopra49](https://twitter.com/sidchopra49)
 
