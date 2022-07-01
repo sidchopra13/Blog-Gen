@@ -17,12 +17,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#description">Description 🖋️</a>
+      <a href=[Description](#description)>Description 🖋️</a>
       <ul>
-        <li><a href="#technologies">Technologies 🛠️</a></li>
+        <li><a href="#-technologies">Technologies 🛠️</a></li>
       </ul>
     </li>
-    <li><a href="#how-to-deploy">How to Deploy? 🚀</a></li>
+    <li><a href="#-how-to-deploy?">How to Deploy? 🚀</a></li>
     <li><a href="#inspiration">Inspiration💡</a></li>
     <li><a href="#what's-next-for-blog-gen">What's next for Blog-Gen 🙌</a></li>
     <li><a href="#contact">Contact 😎</a></li>
